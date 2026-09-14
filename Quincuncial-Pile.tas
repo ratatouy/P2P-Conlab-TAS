@@ -1,0 +1,208 @@
+#
+# P2PConlab
+# https://gamebanana.com/mods/585371
+
+RecordCount: 449
+
+# I don't really understand how those platforms work but hey it works and it's kinda fast so ¯\_(ಠ_ಠ)_/¯
+
+console load P2PConlab/1-Maps/QuincuncialPile
+   1
+
+#Start
+  33
+   4,L,Z
+   1,L,J
+  10,L
+  10,L,D,X
+   5,R,J
+   5,R,D,X
+   2,R,J,G
+   5,R
+   1,R,J
+   6,R
+   1,R,J
+   3,R
+   5,R,D,X
+   1,R,J,G
+  11,R
+  12,R,J
+   5,R
+   2,R,J
+   1,J
+  15,R,D,X
+   2,R
+   3,R,J
+   5,R
+   1,R,J
+   5,R
+   1
+   1,R
+   2,R,J
+   5,R
+   1,R,J
+   6,R
+  12,R,J
+  15,R,D,X
+   7,R
+  12,R,J
+   5,R
+   7,R,D,X
+   1,R,J,G
+   8,R
+  40
+
+#lvl_a-01
+   4,R
+  12,R,J
+   5,R
+   3,R,J
+  15,R,D,X
+   2,R
+   2,R,J
+   1,J
+   9,R,J
+   3,R
+  15,R,D,X
+   1,R
+  12,R,J
+   5,R
+   3,R,J
+   5,R
+  11,R,J
+  15,R,D,X
+   5,R
+   5,R,J
+   1,R,J
+   1,J
+  40
+
+#lvl_a-02
+   8,R
+   8,R,D,X
+   1,L,J,G
+  11,R,J
+   5,R
+   7,R,J
+  16,R
+   2,R,J
+  10,R
+   1,R
+   6,R,J
+   2,R
+  13,R,D,X
+   1,R,J,G
+   1,R
+   2,R,K,G
+   6,R
+   1,R,J
+   4,R
+   1,R,J
+   1
+   2,R
+  40
+
+#lvl_a-03
+   1
+   1
+  10,R
+   1,R,J
+   1,J
+   9,R,J
+   7,R
+   1,R,J
+   3,J
+   4,R,J
+   4,R
+  15,R,D,X
+   2,R
+   9,R,J
+  15,R,D,X
+  40
+
+#lvl_a-04
+   7,R
+  42,R,J
+  14,R,X
+   7,R,J
+  14,R,U,X
+   1,R,J,G
+   7,R
+  13,R,U,X
+   1,R,J,G
+   7,R
+   5,R,J
+   2,R
+   7,R,Z
+   1,R,J
+   1,R
+  40
+
+#lvl_a-05
+   5,R
+   1,R,J
+   7,R,D,X
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+  10,R,J
+   5,R
+   2,R,J
+   1,R
+
+   6,R,J
+   5,R
+   2,R,J
+   4,R
+  15,U,X
+   6,R
+   4,L
+  12,L,J
+   5
+  13,L,Z
+  12,L,J
+   1,L
+   2,L,J
+   2,J
+  15,L,U,X
+   3,L
+   6
+   1,R
+  12,R,J
+  15,L,U,X
+   8,R
+   1,L
+   3,L,J
+   1,L
+  15,U,X
+   9,L
+   1
+  15,U,X
+   7,R
+  14
+   4,Z
+   1,R,J
+   8,R
+  12,R,J
+   5,R
+   4,R,J
+  18,R
+  15,R,U,X
+   9,R
+  15,U,X
+  14,R
+   3,R,J
+  15,L,U,X
+   9
+   7,L,J
+   5,L
+  15,U,X
+  17,L
+  12,L,J
+   2,L
+  14,L,X
+ 135
+
+ChapterTime: 0:22.916(1348)
+  91
